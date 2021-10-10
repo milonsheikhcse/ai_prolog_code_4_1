@@ -1,0 +1,9 @@
+3.a)
+a. There are six glass boxes in a row, each with a lock. Each of the first five boxes holds a key unlocking the next box in line; the last box holds a banana. You have the key to the first box, and you want the banana.
+
+State representation: a glass box which holds a key or a banana
+Initial state: as described in the question.
+Goal test: you have banana.
+Actions: open any box you have the key for, get the contents of any open box.
+Transitional model (Successor function): generates new states by applying the actions: a box is opened, or the content has been obtained.
+Cost function: number of actions

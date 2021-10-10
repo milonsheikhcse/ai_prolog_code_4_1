@@ -1,0 +1,24 @@
+https://www.coursehero.com/upload/
+http://videolectures.net/aaai2010_thayer_bis/
+
+https://www.coursehero.com/file/20165344/Tutorial-2-/
+formulate : https://www.chegg.com/homework-help/questions-and-answers/question-1-formulate-following-problems-preciously--six-glass-boxes-row-lock-first-five-bo-q50645952
+
+site:
+http://www.cse.unsw.edu.au/~cs9024/20T2/home_computing/windows.html
+https://www.cse.unsw.edu.au/~cs9414/
+https://artint.info/2e/html/ArtInt2e.html
+https://cgi.cse.unsw.edu.au/~cs1911/20T2/homecomputing/homecomputing.html
+
+Artificial Intelligence (AI) combines science and engineering in order to build machines capable of intelligent behaviour. It brings together work from the fields of philosophy, psychology, and computer science (see PHILOSOPHY, PSYCHOLOGY, COMPUTER), and contributes to and has drawn on brain science and linguistics. Intelligent robotics is a related discipline in which the machines can manipulate objects in the physical world, (see ROBOT).
+
+
+AI as Engineering
+AI systems are often thought of as science fiction, but in fact are all around us. AI techniques are used, for example, by credit card companies to notice whether your card has been stolen, by looking for changes in your spending patterns. AI is also used in chess computers; in intelligent agents that search for information on the internet; for scheduling the observations of the Hubble space telescope; and for helping doctors diagnose illnesses. Robots were used to help clean up after the Chernobyl nuclear power disaster. Even your pocket calculator could be said to be AI - 100 years ago, no one would have expected a machine to know how to do maths!
+
+In order to build these intelligent machines AI uses many techniques. Expert Systems use the specialist knowledge that people like doctors and lawyers have in order to assist other people by giving advice on those subjects. Machine Learning is the study of how computers and robots can learn from their experience. Neural Networks are computers that work a little bit like brains (see BRAIN, MENTAL PROCESSES). Natural Language studies human languages, like English or Japanese, by trying to teach computers to understand them.
+
+AI as Science
+Surprisingly, tasks which we find hard, computers find easy and vice versa. Although we can write chess playing programs that compete for the world championship it is difficult to build a robot that can walk or catch a ball. Computers can do calculus, but they can't learn to talk as well as a two year old child. Trying to understand why this might be is the scientific side of AI - it is the attempt to understand our own intelligence.
+
+We can use intelligent machines to help us answer these questions about what intelligence is, and how it works. When we think we understand how a mental process works in a human or an animal, we can model it on a computer and see if our theory is correct. Sometimes it turns out to be simpler to test our theories of intelligence by building intelligent machines rather than by analysing people and animals. In this way AI cooperates with other sciences like psychology, and philosophy of mind, which tries to understand what it means to be human, and how we think.
